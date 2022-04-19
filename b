@@ -77,3 +77,19 @@ tvn movies
 https://delivery.tvprem.net/stream/tvn_movies/playlist.m3u8?token=q42qz2d&v=20200807
 tvn
 https://delivery.tvprem.net/stream/id_tvn/playlist.m3u8?token=q42qz2d&v=20200807
+
+cn eng n id
+https://delivery.tvprem.net/stream/cartoonnetwork_en/playlist.m3u8?token=q42qz2d&v=20200807
+https://delivery.tvprem.net/stream/cartoonnetwork_id/playlist.m3u8?token=q42qz2d&v=20200807
+
+nickelodeon id
+https://delivery.tvprem.net/stream/nickelodeon_id/playlist.m3u8?token=q42qz2d&v=20200807
+
+nick jr id
+https://delivery.tvprem.net/stream/nickjr_id/playlist.m3u8?token=q42qz2d&v=20200807
+
+baby tv
+https://delivery.tvprem.net/stream/babytv/playlist.m3u8?token=q42qz2d&v=20200807
+
+dreamwork emg
+https://delivery.tvprem.net/stream/dreamworks_en/playlist.m3u8?token=q42qz2d&v=20200807
