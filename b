@@ -15,6 +15,13 @@ https://delivery.tvprem.net/stream/arena2/playlist.m3u8?token=q42qz2d&v=20200807
 spotv2
 https://delivery.tvprem.net/stream/spotv2/playlist.m3u8?token=q42qz2d&v=20200807
 
+mncsport 1-2
+https://delivery.tvprem.net/stream/mnc_sports_1/playlist.m3u8?token=q42qz2d&v=20200807
+https://delivery.tvprem.net/stream/mnc_sports_2/playlist.m3u8?token=q42qz2d&v=20200807
+
+soccerchannel
+https://delivery.tvprem.net/stream/soccerchannel/playlist.m3u8?token=q42qz2d&v=20200807
+
 usesport 1-2
 https://delivery.tvprem.net/stream/macan_sport_3/playlist.m3u8?token=q42qz2d&v=20200807
 https://delivery.tvprem.net/stream/macan_sport_4/playlist.m3u8?token=q42qz2d&v=20200807
