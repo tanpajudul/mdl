@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Cnn Indonesia" tvg-logo="https://i.postimg.cc/7Zg7GsXq/cnnindonesia.jpg" group-title="Indonesia",Cnn Indonesia
+http://103.179.57.83:25461/bystream/QcTba7AMCw/1
+#EXTINF:-1 tvg-id="" tvg-name="Cnbc" tvg-logo="https://i.postimg.cc/fL6P3Tz9/CNBC-Indonesia.png" group-title="Indonesia",Cnbc
+http://103.179.57.83:25461/bystream/QcTba7AMCw/2
+#EXTINF:-1 tvg-id="" tvg-name="Jakarta_Globe" tvg-logo="https://i.postimg.cc/FHdDSX6b/jakartaglobe.webp" group-title="Indonesia",Jakarta_Globe
+http://103.179.57.83:25461/bystream/QcTba7AMCw/3
+#EXTINF:-1 tvg-id="" tvg-name="Tvri" tvg-logo="https://i.postimg.cc/LsdwKs2Q/tvri.jpg" group-title="Indonesia",Tvri
+http://103.179.57.83:25461/bystream/QcTba7AMCw/29
+#EXTINF:-1 tvg-id="" tvg-name="MetroTv" tvg-logo="https://i.postimg.cc/8cHB6yTF/metrotv.png" group-title="Indonesia",MetroTv
+http://103.179.57.83:25461/bystream/QcTba7AMCw/30
+#EXTINF:-1 tvg-id="" tvg-name="TransTv" tvg-logo="https://i.postimg.cc/ncVcYdHH/Trans-TV.png" group-title="Indonesia",TransTv
+http://103.179.57.83:25461/bystream/QcTba7AMCw/31
+#EXTINF:-1 tvg-id="" tvg-name="Trans7" tvg-logo="https://i.postimg.cc/YS0tYTRg/Trans-7.png" group-title="Indonesia",Trans7
+http://103.179.57.83:25461/bystream/QcTba7AMCw/32
+#EXTINF:-1 tvg-id="" tvg-name="MagnaTv" tvg-logo="https://i.postimg.cc/43RkBQbG/magnatv.png" group-title="Indonesia",MagnaTv
+http://103.179.57.83:25461/bystream/QcTba7AMCw/33
+#EXTINF:-1 tvg-id="" tvg-name="Jaktv" tvg-logo="https://i.postimg.cc/Vv4K2pWw/jaktv.png" group-title="Indonesia",Jaktv
+http://103.179.57.83:25461/bystream/QcTba7AMCw/34
+#EXTINF:-1 tvg-id="" tvg-name="KompasTv" tvg-logo="https://i.postimg.cc/RFdPzC2J/kompastv.png" group-title="Indonesia",KompasTv
+http://103.179.57.83:25461/bystream/QcTba7AMCw/35
+#EXTINF:-1 tvg-id="" tvg-name="Spacetoon" tvg-logo="https://i.postimg.cc/jdZ26m1c/Spacetoon.png" group-title="Indonesia",Spacetoon
+http://103.179.57.83:25461/bystream/QcTba7AMCw/36
+#EXTINF:-1 tvg-id="" tvg-name="Rtv" tvg-logo="https://i.postimg.cc/bvCDXK3N/rtv.jpg" group-title="Indonesia",Rtv
+http://103.179.57.83:25461/bystream/QcTba7AMCw/37
+#EXTINF:-1 tvg-id="" tvg-name="EdukasiTv" tvg-logo="https://i.postimg.cc/0NGg3Kcw/edukasitv.png" group-title="Indonesia",EdukasiTv
+http://103.179.57.83:25461/bystream/QcTba7AMCw/39
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://i.postimg.cc/T1RmcR4Q/Indosiar.png" group-title="Indonesia",Indosiar
+http://103.179.57.83:25461/bystream/QcTba7AMCw/41
+#EXTINF:-1 tvg-id="" tvg-name="Sctv" tvg-logo="https://i.postimg.cc/c15P2rdp/sctv.png" group-title="Indonesia",Sctv
+http://103.179.57.83:25461/bystream/QcTba7AMCw/42
+#EXTINF:-1 tvg-id="" tvg-name="Rcti" tvg-logo="https://i.postimg.cc/L6nDM7M2/rctioke.png" group-title="Indonesia",Rcti
+http://103.179.57.83:25461/bystream/QcTba7AMCw/43
+#EXTINF:-1 tvg-id="" tvg-name="MncTv" tvg-logo="https://i.postimg.cc/J0DVrz9n/MNC-TV.png" group-title="Indonesia",MncTv
+http://103.179.57.83:25461/bystream/QcTba7AMCw/44
