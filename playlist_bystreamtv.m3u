@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Cnn Indonesia" tvg-logo="https://i.postimg.cc/7Zg7GsXq/cnnindonesia.jpg" group-title="Indonesia",Cnn Indonesia
+#EXTINF:-1 tvg-id="" tvg-name="Cnn_Indonesia" tvg-logo="https://i.postimg.cc/7Zg7GsXq/cnnindonesia.jpg" group-title="Indonesia",Cnn_Indonesia
 http://103.179.57.83:25461/bystream/QcTba7AMCw/1
 #EXTINF:-1 tvg-id="" tvg-name="Cnbc" tvg-logo="https://i.postimg.cc/fL6P3Tz9/CNBC-Indonesia.png" group-title="Indonesia",Cnbc
 http://103.179.57.83:25461/bystream/QcTba7AMCw/2
@@ -25,11 +25,57 @@ http://103.179.57.83:25461/bystream/QcTba7AMCw/36
 http://103.179.57.83:25461/bystream/QcTba7AMCw/37
 #EXTINF:-1 tvg-id="" tvg-name="EdukasiTv" tvg-logo="https://i.postimg.cc/0NGg3Kcw/edukasitv.png" group-title="Indonesia",EdukasiTv
 http://103.179.57.83:25461/bystream/QcTba7AMCw/39
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://i.postimg.cc/T1RmcR4Q/Indosiar.png" group-title="Indonesia",Indosiar
-http://103.179.57.83:25461/bystream/QcTba7AMCw/41
-#EXTINF:-1 tvg-id="" tvg-name="Sctv" tvg-logo="https://i.postimg.cc/c15P2rdp/sctv.png" group-title="Indonesia",Sctv
-http://103.179.57.83:25461/bystream/QcTba7AMCw/42
-#EXTINF:-1 tvg-id="" tvg-name="Rcti" tvg-logo="https://i.postimg.cc/L6nDM7M2/rctioke.png" group-title="Indonesia",Rcti
-http://103.179.57.83:25461/bystream/QcTba7AMCw/43
-#EXTINF:-1 tvg-id="" tvg-name="MncTv" tvg-logo="https://i.postimg.cc/J0DVrz9n/MNC-TV.png" group-title="Indonesia",MncTv
-http://103.179.57.83:25461/bystream/QcTba7AMCw/44
+
+======= RCTI =======
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6nDM7M2/rctioke.png" group-title="Indonesia", RCTI
+https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+======= MNCTV =======
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0DVrz9n/MNC-TV.png" group-title="Indonesia",MNCTV
+https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+======== GTV ========
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kjb6ZPh8/gtv.jpg" group-title="Indonesia",GTV
+https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+======= iNews =======
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCrw3Jk6/Inews-TV.png" group-title="Indonesia",iNews
+https://dtaarjaj1diy9.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
+======= SCTV =======
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c15P2rdp/sctv.png" group-title="Indonesia",SCTV
+http://akudandia.xyz/locs/akudandia-204.m3u8
+
+====== Indosiar ======
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1RmcR4Q/Indosiar.png" group-title="Indonesia",Indosiar
+http://akudandia.xyz/locs/akudandia-205.m3u8
+
+===== O Channel =====
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRh57tCk/ochannel.jpg" group-title="Indonesia",O Channel
+http://akudandia.xyz/locs/akudandia-206.m3u8
+
+======== NET ========
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pT2hhK52/NET-TV.png" group-title="Indonesia",NET
+https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+
+======= ANTV =======
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/D05dXWB7/Antv.png" group-title="Indonesia",ANTV
+https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+
+======= TV ONE =======
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2WsT5FD/tvone.png" group-title="Indonesia",TV ONE
+https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
